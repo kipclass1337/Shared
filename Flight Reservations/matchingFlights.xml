@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfFlight xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Flight>
+    <FlightNumber>129</FlightNumber>
+    <DateAndTime>2017-06-03T05:00:00</DateAndTime>
+    <OrigAirport>DEN</OrigAirport>
+    <DestAirport>SEA</DestAirport>
+    <Fare>1377</Fare>
+    <Seats>10</Seats>
+  </Flight>
+  <Flight>
+    <FlightNumber>130</FlightNumber>
+    <DateAndTime>2017-06-03T13:00:00</DateAndTime>
+    <OrigAirport>DEN</OrigAirport>
+    <DestAirport>SEA</DestAirport>
+    <Fare>2368</Fare>
+    <Seats>10</Seats>
+  </Flight>
+  <Flight>
+    <FlightNumber>131</FlightNumber>
+    <DateAndTime>2017-06-03T18:00:00</DateAndTime>
+    <OrigAirport>DEN</OrigAirport>
+    <DestAirport>SEA</DestAirport>
+    <Fare>1246</Fare>
+    <Seats>10</Seats>
+  </Flight>
+  <Flight>
+    <FlightNumber>132</FlightNumber>
+    <DateAndTime>2017-06-03T22:00:00</DateAndTime>
+    <OrigAirport>DEN</OrigAirport>
+    <DestAirport>SEA</DestAirport>
+    <Fare>1098</Fare>
+    <Seats>10</Seats>
+  </Flight>
+</ArrayOfFlight>

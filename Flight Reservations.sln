@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flight Reservation GUI", "Flight Reservations\Flight Reservation GUI.csproj", "{67377890-3ADC-4FE8-BD78-17443384B186}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReservationLibrary", "ReservationLibrary\ReservationLibrary.csproj", "{5DAAF986-393C-4139-824B-FA342BE09F22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67377890-3ADC-4FE8-BD78-17443384B186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67377890-3ADC-4FE8-BD78-17443384B186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67377890-3ADC-4FE8-BD78-17443384B186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67377890-3ADC-4FE8-BD78-17443384B186}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DAAF986-393C-4139-824B-FA342BE09F22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DAAF986-393C-4139-824B-FA342BE09F22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DAAF986-393C-4139-824B-FA342BE09F22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DAAF986-393C-4139-824B-FA342BE09F22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91AA9837-2AAE-4163-B639-148CAEF7CE85}
+	EndGlobalSection
+EndGlobal
