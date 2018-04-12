@@ -10,13 +10,13 @@ namespace ReservationLibrary
 {
    public class ReservationFactory
    {
-      List<Flight> flightList;
+      //List<Flight> flightList;
       List<FlightRequest> flightRequestList;
       FlightFactory flightFactory;
       XmlSerializer Serializer;
 
       public ReservationFactory() { }
-
+      //Update to use shared.FlightList and remove deserialization other than what is in flight factory.
       public List<FlightRequest> CreateFlightRequest (String filePath)
       {
          flightList = new List<Flight>();
@@ -31,7 +31,7 @@ namespace ReservationLibrary
          while (counter < 20)
          {
             int ranIndex = random.Next(0, flightList.Count);
-            Flight fl = flightList[ranIndex];
+            Flight fl = Shared.flightList[ranIndex];
 
             FlightRequest flightRequest = new FlightRequest(fl.DateAndTime, fl.OrigAirport, fl.DestAirport);
 

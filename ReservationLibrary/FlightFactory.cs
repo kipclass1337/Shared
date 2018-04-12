@@ -105,21 +105,9 @@ namespace ReservationLibrary
          return true;
       }
 
-      public List<Flight> Deserialize(string FilePath)
-      {
-         try
-         {
-            FlightList = new List<Flight>();
-            StreamReader XmlStream = new StreamReader(FilePath);
-            Serializer = new XmlSerializer(FlightList.GetType());
-            FlightList = (List<Flight>)Serializer.Deserialize(XmlStream);
-            XmlStream.Close();
-            return FlightList;
-         }
-         catch (Exception ex)
-         {
-            return null;
-         }
-      }
+
+
+      // put a method here to just return the list to the front end instead of serializer
+
    }
 }

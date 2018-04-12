@@ -10,3 +10,9 @@ C:\Users\sejog\Documents\GitHub\asg2_COP4814\ReservationLibrary\obj\Debug\Reserv
 C:\Users\sejog\Documents\GitHub\asg2_COP4814\ReservationLibrary\obj\Debug\ReservationLibrary.csproj.CoreCompileInputs.cache
 C:\Users\sejog\Documents\GitHub\asg2_COP4814\ReservationLibrary\obj\Debug\ReservationLibrary.dll
 C:\Users\sejog\Documents\GitHub\asg2_COP4814\ReservationLibrary\obj\Debug\ReservationLibrary.pdb
+C:\Users\sejog\Documents\GitHub\FlightReservationProject\ReservationLibrary\bin\Debug\ReservationLibrary.dll
+C:\Users\sejog\Documents\GitHub\FlightReservationProject\ReservationLibrary\bin\Debug\ReservationLibrary.pdb
+C:\Users\sejog\Documents\GitHub\FlightReservationProject\ReservationLibrary\obj\Debug\ReservationLibrary.csprojResolveAssemblyReference.cache
+C:\Users\sejog\Documents\GitHub\FlightReservationProject\ReservationLibrary\obj\Debug\ReservationLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sejog\Documents\GitHub\FlightReservationProject\ReservationLibrary\obj\Debug\ReservationLibrary.dll
+C:\Users\sejog\Documents\GitHub\FlightReservationProject\ReservationLibrary\obj\Debug\ReservationLibrary.pdb

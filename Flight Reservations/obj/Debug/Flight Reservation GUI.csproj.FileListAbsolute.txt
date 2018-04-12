@@ -13,3 +13,18 @@ C:\Users\sejog\Documents\GitHub\asg2_COP4814\Flight Reservations\obj\Debug\Fligh
 C:\Users\sejog\Documents\GitHub\asg2_COP4814\Flight Reservations\obj\Debug\FlightReservationGui.exe
 C:\Users\sejog\Documents\GitHub\asg2_COP4814\Flight Reservations\obj\Debug\FlightReservationGui.pdb
 C:\Users\sejog\Documents\GitHub\asg2_COP4814\Flight Reservations\obj\Debug\FlightReservationGui.FlightRequestForm.resources
+C:\Users\sejog\Documents\GitHub\FlightReservationProject\Flight Reservations\bin\Debug\FlightReservationGui.exe.config
+C:\Users\sejog\Documents\GitHub\FlightReservationProject\Flight Reservations\bin\Debug\FlightReservationGui.exe
+C:\Users\sejog\Documents\GitHub\FlightReservationProject\Flight Reservations\bin\Debug\FlightReservationGui.pdb
+C:\Users\sejog\Documents\GitHub\FlightReservationProject\Flight Reservations\bin\Debug\ReservationLibrary.dll
+C:\Users\sejog\Documents\GitHub\FlightReservationProject\Flight Reservations\bin\Debug\ReservationLibrary.pdb
+C:\Users\sejog\Documents\GitHub\FlightReservationProject\Flight Reservations\obj\Debug\Flight Reservation GUI.csprojResolveAssemblyReference.cache
+C:\Users\sejog\Documents\GitHub\FlightReservationProject\Flight Reservations\obj\Debug\FlightReservationGui.BrowserForm.resources
+C:\Users\sejog\Documents\GitHub\FlightReservationProject\Flight Reservations\obj\Debug\FlightReservationGui.CreateFilesForm.resources
+C:\Users\sejog\Documents\GitHub\FlightReservationProject\Flight Reservations\obj\Debug\FlightReservationGui.FlightRequestForm.resources
+C:\Users\sejog\Documents\GitHub\FlightReservationProject\Flight Reservations\obj\Debug\FlightReservationGui.MainForm.resources
+C:\Users\sejog\Documents\GitHub\FlightReservationProject\Flight Reservations\obj\Debug\FlightReservationGui.Properties.Resources.resources
+C:\Users\sejog\Documents\GitHub\FlightReservationProject\Flight Reservations\obj\Debug\Flight Reservation GUI.csproj.GenerateResource.Cache
+C:\Users\sejog\Documents\GitHub\FlightReservationProject\Flight Reservations\obj\Debug\Flight Reservation GUI.csproj.CoreCompileInputs.cache
+C:\Users\sejog\Documents\GitHub\FlightReservationProject\Flight Reservations\obj\Debug\FlightReservationGui.exe
+C:\Users\sejog\Documents\GitHub\FlightReservationProject\Flight Reservations\obj\Debug\FlightReservationGui.pdb
