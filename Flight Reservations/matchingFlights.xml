@@ -1,35 +1,35 @@
 <?xml version="1.0"?>
 <ArrayOfFlight xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Flight>
-    <FlightNumber>101</FlightNumber>
-    <DateAndTime>2017-06-19T05:00:00</DateAndTime>
-    <OrigAirport>MIA</OrigAirport>
+    <FlightNumber>141</FlightNumber>
+    <DateAndTime>2017-06-06T05:00:00</DateAndTime>
+    <OrigAirport>LAX</OrigAirport>
     <DestAirport>SEA</DestAirport>
-    <Fare>1830</Fare>
+    <Fare>1966</Fare>
     <Seats>10</Seats>
   </Flight>
   <Flight>
-    <FlightNumber>102</FlightNumber>
-    <DateAndTime>2017-06-19T13:00:00</DateAndTime>
-    <OrigAirport>MIA</OrigAirport>
+    <FlightNumber>142</FlightNumber>
+    <DateAndTime>2017-06-06T13:00:00</DateAndTime>
+    <OrigAirport>LAX</OrigAirport>
     <DestAirport>SEA</DestAirport>
-    <Fare>2500</Fare>
+    <Fare>2169</Fare>
     <Seats>10</Seats>
   </Flight>
   <Flight>
-    <FlightNumber>103</FlightNumber>
-    <DateAndTime>2017-06-19T18:00:00</DateAndTime>
-    <OrigAirport>MIA</OrigAirport>
+    <FlightNumber>143</FlightNumber>
+    <DateAndTime>2017-06-06T18:00:00</DateAndTime>
+    <OrigAirport>LAX</OrigAirport>
     <DestAirport>SEA</DestAirport>
-    <Fare>2191</Fare>
+    <Fare>1566</Fare>
     <Seats>10</Seats>
   </Flight>
   <Flight>
-    <FlightNumber>104</FlightNumber>
-    <DateAndTime>2017-06-19T22:00:00</DateAndTime>
-    <OrigAirport>MIA</OrigAirport>
+    <FlightNumber>144</FlightNumber>
+    <DateAndTime>2017-06-06T22:00:00</DateAndTime>
+    <OrigAirport>LAX</OrigAirport>
     <DestAirport>SEA</DestAirport>
-    <Fare>1763</Fare>
+    <Fare>1471</Fare>
     <Seats>10</Seats>
   </Flight>
 </ArrayOfFlight>
